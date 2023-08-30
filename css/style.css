@@ -130,6 +130,7 @@ footer {
 footer ul {
   display: inline-block;
   vertical-align: top;
+  list-style:none;
 }
 
 footer ul li {
